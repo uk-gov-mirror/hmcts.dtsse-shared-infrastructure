@@ -1,3 +1,7 @@
+## Deprecation notice
+
+This repo has been deprecated in favour of https://github.com/hmcts/grafana-infrastructure
+
 # dtsse-shared-infrastructure
 
 Shared infrastructure pipeline for the DTS Software Engineering team.
